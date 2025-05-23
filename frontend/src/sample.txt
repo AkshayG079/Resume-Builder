@@ -1,0 +1,144 @@
+{
+  "userId": "6704e3adedba6e73c8c7e03a",
+  "resumeData": {
+    "certificates": [
+      {}
+    ],
+    "customFields": [
+      {}
+    ],
+    "education": [
+      {}
+    ],
+    "information": {
+      "name": "angel",
+      "address": "bramhapuri",
+      "phone": "01234567890",
+      "email": "angel@gmail.com"
+    },
+    "projects": [
+      {}
+    ],
+    "skills": [
+      {},
+      {}
+    ],
+    "summary": [
+      {}
+    ],
+    "workExperience": [
+      {}
+    ]
+  }
+}
+
+
+{
+  "_id": "6704f3b58f5f152760c87f2e",
+  "userId": "6704e3adedba6e73c8c7e03a",
+  "resume": [
+    {
+      "resumeData": {
+        "certificates": [
+          {}
+        ],
+        "customFields": [
+          {}
+        ],
+        "education": [
+          {}
+        ],
+        "information": {
+          "name": "angel11",
+          "address": "angel11",
+          "phone": "angel11",
+          "email": "angel11@gmail.com"
+        },
+        "projects": [
+          {}
+        ],
+        "skills": [
+          {},
+          {}
+        ],
+        "summary": [
+          {}
+        ],
+        "workExperience": [
+          {}
+        ],
+        "template": 2
+      },
+      "_id": "6704f3dd8f5f152760c87f36"
+    },
+    {
+      "resumeData": {
+        "certificates": [
+          {}
+        ],
+        "customFields": [
+          {}
+        ],
+        "education": [
+          {}
+        ],
+        "information": {
+          "name": "angel22",
+          "address": "angel22",
+          "phone": "angel22",
+          "email": "angel22@gmail.com"
+        },
+        "projects": [
+          {}
+        ],
+        "skills": [
+          {},
+          {}
+        ],
+        "summary": [
+          {}
+        ],
+        "workExperience": [
+          {}
+        ],
+        "template": 2
+      },
+      "_id": "6704f6bf537cd8102347611d"
+    },
+    {
+      "resumeData": {
+        "certificates": [
+          {}
+        ],
+        "customFields": [
+          {}
+        ],
+        "education": [
+          {}
+        ],
+        "information": {
+          "name": "angel33",
+          "address": "angel33",
+          "phone": "angel33",
+          "email": "angel33@gmail.com"
+        },
+        "projects": [
+          {}
+        ],
+        "skills": [
+          {},
+          {}
+        ],
+        "summary": [
+          {}
+        ],
+        "workExperience": [
+          {}
+        ],
+        "template": 2
+      },
+      "_id": "6704f6c1537cd81023476127"
+    }
+  ],
+  "__v": 1
+}
