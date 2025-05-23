@@ -1,5 +1,4 @@
-
-#🚀 Resume Builder with ATS Score Checking
+# Resume Builder with ATS Score Checking
 The Resume Builder with ATS Score Checking is a powerful full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Designed for modern job seekers, this intelligent tool enables users to create highly professional, visually appealing resumes that are fully optimized to pass Applicant Tracking Systems (ATS) used by recruiters.
 The app integrates AI-powered features such as real-time content suggestions and ATS score analysis. These features help users enhance the quality and relevance of their resumes, increasing their chances of getting noticed and landing interviews in competitive job markets.
 
