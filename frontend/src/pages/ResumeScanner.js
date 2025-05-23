@@ -127,7 +127,7 @@ const ResumeScanner = () => {
 
             setLoading(true)
             const response = await axios({
-                url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyAqsjaquO5X0JTDKeiv3jHzXj5mklT5n9o`,
+                url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=[Your Api Key]`,
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
